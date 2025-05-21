@@ -1,0 +1,14 @@
+alice,12
+bob,8
+charlie,15
+diana,20
+ethan,5
+fiona,18
+george,10
+harry,14
+ivy,7
+jack,13
+kate,9
+liam,16
+Tim,5
+rt,0
